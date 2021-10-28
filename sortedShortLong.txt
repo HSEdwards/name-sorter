@@ -1,0 +1,56 @@
+Welcome to name sorter, how would you like to sort your list?
+1) By size (short to long) and alphabetically
+2) By size (long to short) and reverse alphabetically
+> You have selected option 1.
+Kha
+Asby
+Bain
+Dean
+Fife
+Wile
+Baker
+Ellis
+Evans
+Foley
+Glock
+Graff
+Heigl
+Lundy
+McVey
+Nylon
+Peery
+Reyes
+White
+Adkins
+Broome
+Hickey
+Laymon
+Rogers
+Tanton
+Taylor
+Byfield
+Dulaney
+Hagberg
+Hillman
+McCrave
+Michael
+Padgett
+Routson
+Starkey
+Stegman
+Bostwick
+Cachedon
+Giddings
+Guenther
+Hatfield
+Kalivoda
+Kirkland
+Phillips
+Reynolds
+Sullivan
+Williams
+Clevenger
+Fitzjerrell
+Hendrickson
+If you would like sort again, press '0'
+>GoodBye
