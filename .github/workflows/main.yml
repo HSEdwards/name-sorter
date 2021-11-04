@@ -27,5 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: ./test.sh
+        run:  
+          echo sed -i -e 's/\r$//' test.sh
+          echo  ./test.sh
 
